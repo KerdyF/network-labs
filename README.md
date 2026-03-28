@@ -1,9 +1,11 @@
 # Network Labs Portfolio
 
-I'm a CCNA-certified IT professional currently working in helpdesk and building toward a network engineering role.
+I'm a CCNA-certified IT professional currently working in helpdesk 
+and building toward a network engineering role.
 
-This repository documents hands-on networking labs I build using EVE-NG and Cisco IOSv.
-Each lab includes a topology diagram, full device configs, and a write-up of what I built and what I learned.
+This repository documents hands-on networking labs I build using 
+Cisco Packet Tracer. Each lab includes a topology diagram, full 
+device configs, and a write-up of what I built and what I learned.
 
 ## Labs
 
@@ -17,7 +19,8 @@ Each lab includes a topology diagram, full device configs, and a write-up of wha
 
 ## Skills Being Demonstrated
 
-- Routing & Switching: OSPF, VLANs, STP, trunking, DHCP
-- Tools: EVE-NG, Cisco IOSv, Wireshark, Zabbix
-- Automation: Python, Netmiko
-- Certifications: CCNA (2025) | CCNP Enterprise (in progress)
+- Routing & Switching: VLANs, STP, trunking, DHCP, inter-VLAN routing, OSPF
+- Simulators: Cisco Packet Tracer
+- Tools: Wireshark, Zabbix
+- Automation: Python, Netmiko (in progress)
+- Certifications: CCNA (2026) | CCNP Enterprise (in progress)
