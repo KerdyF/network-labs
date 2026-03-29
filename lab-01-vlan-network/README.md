@@ -11,7 +11,8 @@ handled by a router-on-a-stick configuration.
 
 Network Topology 
 
-<img width="1776" height="874" alt="topology png" src="https://github.com/user-attachments/assets/ba87fd35-98f2-46be-ba18-216a1a34d30e" />
+<img width="1999" height="827" alt="topology" src="https://github.com/user-attachments/assets/68e4d1a8-072d-4046-89f2-d9b70973ec42" />
+
 
 
 ## VLAN Design
