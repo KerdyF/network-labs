@@ -8,7 +8,7 @@ segments three departments into separate VLANs with inter-VLAN routing
 handled by a router-on-a-stick configuration.
 
 ## Topology
-![Network Topology](topology.png)
+(topology.png.png)
 
 
 
