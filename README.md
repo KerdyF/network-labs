@@ -11,7 +11,7 @@ device configs, and a write-up of what I built and what I learned.
 
 | Lab | Topics | Status |
 |-----|--------|--------|
-| Lab 01 - Enterprise VLAN Network | VLANs, trunking, inter-VLAN routing, DHCP, port security | In progress |
+| Lab 01 - Enterprise VLAN Network | VLANs, trunking, inter-VLAN routing, DHCP, port security | Complete |
 | Lab 02 - Multi-Router OSPF | OSPF areas, DR/BDR, route summarization | Planned |
 | Lab 03 - Wireshark Analysis | ARP, DHCP, TCP, OSPF captures | Planned |
 | Lab 04 - Network Automation | Python, Netmiko, VLAN provisioning script | Planned |
