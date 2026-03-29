@@ -71,7 +71,9 @@ Network Topology
 - Extended access lists to restrict traffic between VLANs
 
 ## Configs
+- [SW1 Config](sw1-config.txt)
+- [SW2 Config](sw2-config.txt)
+- [R1 Config](r1-config.txt)
 
-- 
 
 
