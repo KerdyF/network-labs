@@ -9,10 +9,13 @@ handled by a router-on-a-stick configuration.
 
 ## Topology
 
-![Network Topology](<img width="1776" height="874" alt="topology png" src="https://github.com/user-attachments/assets/7d2bbc7b-f580-4460-a67d-06b529590752" />
-)
+![Network Topology] 
+
+<img width="1776" height="874" alt="topology png" src="https://github.com/user-attachments/assets/ba87fd35-98f2-46be-ba18-216a1a34d30e" />
+
 
 ## VLAN Design
+
 
 | VLAN | Name | Network | Gateway | Device |
 |------|------|---------|---------|--------|
