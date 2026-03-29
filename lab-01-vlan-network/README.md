@@ -73,7 +73,7 @@ Network Topology
 ## Configs
 
 - [SW1 Config](sw1-config.txt)
-- [Uploading sw1-config.txt…]()
+  
 
 [Uplo
 SW1#sh running-config
