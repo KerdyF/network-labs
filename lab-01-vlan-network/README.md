@@ -10,8 +10,9 @@ handled by a router-on-a-stick configuration.
 ## Topology
 
 Network Topology 
+<img width="1854" height="743" alt="topology png" src="https://github.com/user-attachments/assets/df9309d7-c761-46d6-b2bd-0464a71f607e" />
 
-<img width="1999" height="827" alt="topology" src="https://github.com/user-attachments/assets/68e4d1a8-072d-4046-89f2-d9b70973ec42" />
+
 
 
 
