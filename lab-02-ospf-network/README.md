@@ -8,10 +8,10 @@ network implements OSPF across 3 areas with R2 acting
 as the Area Border Router connecting Area 0, Area 1 
 and Area 2.
 
-## Topology
-[topology.png1.pdf](https://github.com/user-attachments/files/26485179/topology.png1.pdf)
 
-![Network Topology]()
+## Topology
+![Network Topology](topology.png)
+[topology.png1.pdf](https://github.com/user-attachments/files/26485211/topology.png1.pdf)
 
 ## Network Design
 
