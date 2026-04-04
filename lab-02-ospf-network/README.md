@@ -10,8 +10,7 @@ and Area 2.
 
 
 ## Topology
-![Network Topology](topology.png)
-[topology.png1.pdf](https://github.com/user-attachments/files/26485211/topology.png1.pdf)
+![Network Topology]([topology.png](https://github.com/user-attachments/files/26485211/topology.png1.pdf))
 
 ## Network Design
 
