@@ -11,7 +11,7 @@ and Area 2.
 
 ## 
 
-![Network Topology](topology.png (2).png)
+![Network Topology](topology)
 
 ## Network Design
 
