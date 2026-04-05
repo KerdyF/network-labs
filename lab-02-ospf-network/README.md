@@ -11,8 +11,7 @@ and Area 2.
 
 ## 
 
-![Network Topology](<img width="1046" height="813" alt="topology png (2)" src="https://github.com/user-attachments/assets/bcd4bf24-01bf-4fa6-8482-df41184564c4" />
-)
+![Network Topology](topology.png)
 
 ## Network Design
 
