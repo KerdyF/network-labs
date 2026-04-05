@@ -9,8 +9,10 @@ as the Area Border Router connecting Area 0, Area 1
 and Area 2.
 
 
-## Topology
-![Network Topology](topology.png1)
+## 
+
+![Network Topology](<img width="1046" height="813" alt="topology png (2)" src="https://github.com/user-attachments/assets/bcd4bf24-01bf-4fa6-8482-df41184564c4" />
+)
 
 ## Network Design
 
